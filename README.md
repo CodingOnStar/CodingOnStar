@@ -1,6 +1,7 @@
 ![React](https://img.shields.io/badge/-React-3b2e5a?&logo=react)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
+![F1](https://img.shields.io/badge/-F1-E10600?&logo=F1)
+![Javascript](https://img.shields.io/badge/-Javascript-E5D565?&logo=Javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-4476C0?&logo=Typescript&logoColor=white)
 
 
