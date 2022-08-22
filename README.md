@@ -24,3 +24,4 @@ Git Config 🕓 2m    ░░░░░░░░░░░░░░░░░░░�
 ```
 <!-- waka-box end -->
  
+![](https://visitor-badge.glitch.me/badge?page_id=github.CodingOnStar)
