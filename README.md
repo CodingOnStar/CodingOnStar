@@ -13,7 +13,7 @@
 - 🏈 Flag footballer and addicting to 🏂🏻
 - 😋 Fun Facts: Nobody has the same name with me(among 1.4 billion people in 🇨🇳)
 
-<!-- waka-box start -->
+
 #### <a href="https://github.com/matchai/waka-box" target="_blank">📊 Weekly development breakdown</a>
 ```text
 TypeScript 🕓 7h8m  █████████████████▉░░░░░░░░░░ 64.3%
@@ -22,6 +22,6 @@ YAML       🕓 1h25m ███▌░░░░░░░░░░░░░░░�
 JavaScript 🕓 57m   ██▍░░░░░░░░░░░░░░░░░░░░░░░░░  8.7%
 Git Config 🕓 2m    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.4%
 ```
-<!-- waka-box end -->
+
  
 ![](https://visitor-badge.glitch.me/badge?page_id=github.CodingOnStar)
