@@ -26,3 +26,4 @@ Other        🕓 3h 13m   █▉░░░░░░░░░░░░░░░�
  <!-- waka-box end -->
  
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=github.CodingOnStar) -->
+![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
