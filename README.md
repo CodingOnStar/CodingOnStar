@@ -24,6 +24,3 @@ EJS          🕓 8m 41s   ░░░░░░░░░░░░░░░░░�
 Other        🕓 3h 13m   █▉░░░░░░░░░░░░░░░░░░░   9.5%
 ```
  <!-- waka-box end -->
- 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=github.CodingOnStar) -->
-![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
