@@ -9,7 +9,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
 - ✍🏻 Let self-improvement be normalization
 - 👨‍💻 Trying to be a real full-stack engineer 
-- 📚 Currently enjoy reading on iPad
+- 📚 ~~Currently enjoy reading on iPad~~ Physical books are the eternal favorite.
 - 🏈 Flag footballer and addicting to 🏂🏻
 - 😋 Fun Facts: Nobody has the same name with me(among 1.4 billion people in 🇨🇳)
 
