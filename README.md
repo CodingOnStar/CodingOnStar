@@ -7,7 +7,7 @@
 
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
-- ✍🏻 Make self-improvement a daily habit
+- ✍🏻 Making self-improvement a daily habit
 - 👨‍💻 Enojying the flow (state of mind).
 - 📚 ~~Currently enjoy reading on iPad~~ Physical books are the eternal favorite.
 - 🏈 Flag footballer and addicting to 🏂🏻
